@@ -1,0 +1,1 @@
+export const API_URL = 'https://safeti-app-96d93-default-rtdb.firebaseio.com/';
