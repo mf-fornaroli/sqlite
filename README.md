@@ -6,6 +6,6 @@ PAra habilitar el acceso restringido en navigation\index.js descomentar las lín
     userId
      ? (< TabNavigator />)
      : (<AuthNavigator />)
-  
-   */}
+     */}
+     
      < TabNavigator />
